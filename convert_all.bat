@@ -1,0 +1,1 @@
+for %%s in (*.obm) do obm2bmp.exe %%s
