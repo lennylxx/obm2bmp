@@ -1,6 +1,7 @@
 obm2bmp
 =======
 A simple tool to convert *.obm files to *.bmp bitmap files.
+> this program doesn't support the image type "0x1009", aka imagetype=0x09 bitcount=0x10
 
 Read [my blog] for more information. 
 
